@@ -15,6 +15,27 @@ platform. While the non-functional requirements are: a simple layout (UX/UI) and
 application are required to make the user feel free. High security to maintain user privacy and to
 give comfort to the user.
 
+
 # Class Diagrma
 
-![Class Diagram](https://github.com/ibrahimGamal01/Manjam/tree/master/description/diagrams/classDiagram.png)
+![Class Diagram](/description/diagrams/classDiagram.png)
+
+# Package Diagram
+
+![Class Diagram](/description/diagrams/PackageDiagram.png)
+
+# Activity Diagram
+
+![Class Diagram](/description/diagrams/ActivityDiagram.png)
+
+# Use-Case Diagram
+
+![Class Diagram](/description/diagrams/Use-CaseDiagram.png)
+
+# Sequence Diagram
+
+![Class Diagram](/description/diagrams/SequenceDiagram.png)
+
+# Deployment Diagram
+
+![Class Diagram](/description/diagrams/DeploymentDiagram.png)
