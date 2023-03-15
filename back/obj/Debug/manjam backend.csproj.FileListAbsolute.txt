@@ -1,0 +1,144 @@
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\manjam backend.dll.config
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\manjam backend.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\manjam backend.pdb
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\csc.exe
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\csc.exe.config
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\csc.rsp
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\csi.exe
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\csi.exe.config
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\csi.rsp
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.AppContext.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.Collections.Immutable.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.Console.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.Globalization.Calendars.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.IO.Compression.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.IO.FileSystem.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.Net.Http.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.Net.Sockets.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.Reflection.Metadata.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.ValueTuple.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.Xml.XPath.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\vbc.exe
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\vbc.exe.config
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\vbc.rsp
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\VBCSCompiler.exe
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\roslyn\VBCSCompiler.exe.config
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\obj\Debug\manjam backend.csproj.AssemblyReference.cache
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\obj\Debug\manjam backend.csproj.CoreCompileInputs.cache
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\obj\Debug\manjam backend.csproj.CopyComplete
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\obj\Debug\manjam backend.dll
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\obj\Debug\manjam backend.pdb
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\obj\Debug\webProject.Signup.resources
+G:\Computer Science\College\Sophomore Year\Software Engineering\Assignments\manjam backend\manjam backend\obj\Debug\manjam backend.csproj.GenerateResource.cache
+E:\School\manjam\back-end\manjam backend\obj\Debug\manjam backend.csproj.AssemblyReference.cache
+E:\School\manjam\back-end\manjam backend\obj\Debug\webProject.Signup.resources
+E:\School\manjam\back-end\manjam backend\obj\Debug\manjam backend.csproj.GenerateResource.cache
+E:\School\manjam\back-end\manjam backend\obj\Debug\manjam backend.csproj.CoreCompileInputs.cache
+E:\School\manjam\back-end\manjam backend\obj\Debug\manjam backend.dll
+E:\School\manjam\back-end\manjam backend\obj\Debug\manjam backend.pdb
+E:\School\manjam\back-end\manjam backend\bin\manjam backend.dll.config
+E:\School\manjam\back-end\manjam backend\bin\manjam backend.dll
+E:\School\manjam\back-end\manjam backend\bin\manjam backend.pdb
+E:\School\manjam\back-end\manjam backend\bin\roslyn\csc.exe
+E:\School\manjam\back-end\manjam backend\bin\roslyn\csc.exe.config
+E:\School\manjam\back-end\manjam backend\bin\roslyn\csc.rsp
+E:\School\manjam\back-end\manjam backend\bin\roslyn\csi.exe
+E:\School\manjam\back-end\manjam backend\bin\roslyn\csi.exe.config
+E:\School\manjam\back-end\manjam backend\bin\roslyn\csi.rsp
+E:\School\manjam\back-end\manjam backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\School\manjam\back-end\manjam backend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\Microsoft.Managed.Core.targets
+E:\School\manjam\back-end\manjam backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\School\manjam\back-end\manjam backend\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.AppContext.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.Collections.Immutable.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.Console.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.Globalization.Calendars.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.IO.Compression.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.IO.FileSystem.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.Net.Http.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.Net.Sockets.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.Reflection.Metadata.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.ValueTuple.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.Xml.XmlDocument.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.Xml.XPath.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\School\manjam\back-end\manjam backend\bin\roslyn\vbc.exe
+E:\School\manjam\back-end\manjam backend\bin\roslyn\vbc.exe.config
+E:\School\manjam\back-end\manjam backend\bin\roslyn\vbc.rsp
+E:\School\manjam\back-end\manjam backend\bin\roslyn\VBCSCompiler.exe
+E:\School\manjam\back-end\manjam backend\bin\roslyn\VBCSCompiler.exe.config
+E:\School\manjam\back-end\manjam backend\bin\BouncyCastle.Crypto.dll
+E:\School\manjam\back-end\manjam backend\bin\Google.Protobuf.dll
+E:\School\manjam\back-end\manjam backend\bin\K4os.Compression.LZ4.dll
+E:\School\manjam\back-end\manjam backend\bin\K4os.Compression.LZ4.Streams.dll
+E:\School\manjam\back-end\manjam backend\bin\K4os.Hash.xxHash.dll
+E:\School\manjam\back-end\manjam backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\School\manjam\back-end\manjam backend\bin\MySql.Data.dll
+E:\School\manjam\back-end\manjam backend\bin\System.Buffers.dll
+E:\School\manjam\back-end\manjam backend\bin\System.Memory.dll
+E:\School\manjam\back-end\manjam backend\bin\System.Numerics.Vectors.dll
+E:\School\manjam\back-end\manjam backend\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\School\manjam\back-end\manjam backend\bin\ZstdNet.dll
+E:\School\manjam\back-end\manjam backend\bin\BouncyCastle.Crypto.xml
+E:\School\manjam\back-end\manjam backend\bin\Google.Protobuf.pdb
+E:\School\manjam\back-end\manjam backend\bin\Google.Protobuf.xml
+E:\School\manjam\back-end\manjam backend\bin\K4os.Compression.LZ4.xml
+E:\School\manjam\back-end\manjam backend\bin\K4os.Compression.LZ4.Streams.xml
+E:\School\manjam\back-end\manjam backend\bin\K4os.Hash.xxHash.xml
+E:\School\manjam\back-end\manjam backend\bin\MySql.Data.xml
+E:\School\manjam\back-end\manjam backend\bin\System.Buffers.xml
+E:\School\manjam\back-end\manjam backend\bin\System.Memory.xml
+E:\School\manjam\back-end\manjam backend\bin\System.Numerics.Vectors.xml
+E:\School\manjam\back-end\manjam backend\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\School\manjam\back-end\manjam backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\School\manjam\back-end\manjam backend\obj\Debug\manjam backend.csproj.CopyComplete

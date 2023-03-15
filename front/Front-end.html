@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <title>attendance</title>
+    <meta name="description" content="ejust_attendance" />
+    <meta name="keywords" content="ejust_attendance" />
+    <link rel="stylesheet" href="stylesheetatt.css" />
+    <link rel="stylesheet" href="nicepage.css" />
+    <script>
+      var loginButton = document.getElementById("login-button");
+      loginButton.addEventListener("click", function () {
+        window.location.href = "Home.html";
+      });
+    </script>
+    <link
+      href="https://fonts.googleapis.com/css?family=Allura"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Amita"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="aa">
+      <h1 style="text-transform: capitalize">Log in</h1>
+
+      <!-- Login form -->
+      <form id="login-form" action="form.html">
+        <div class="ss">
+          <label for="student-id">User E-mail:</label><br />
+          <input type="text" id="student-id" name="student-id" /><br />
+          <label for="password">Password:</label><br />
+          <input type="password" id="password" name="password" /><br /><br />
+          <div class="u-align-left u-form-group u-form-submit">
+            <a href="Home.html" class="u-active-white u-border-none u-btn u-btn-round u-btn-submit u-button-style u-hover-white u-palette-4-base u-radius-50 u-btn-3">Submit</a>
+            <input type="submit" value="submit" class="u-form-control-hidden">
+          </div>
+          <!-- <button
+            class="submit"
+            type="submit"
+            class="submit"
+            id="login-button"
+            onclick="location.href='Home.html'"
+          >
+            Log In
+          </button> -->
+        </div>
+      </form>
+    </div>
+
+    <!-- Attendance form -->
+
+    <!-- Attendance records -->
+  </body>
+</html>

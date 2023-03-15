@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    
+}
+body{
+    margin:0;
+    padding:0;
+    font-family: montserrat;
+    background:linear-gradient(120deg,#2980b9,#8e44ad);
+    height:100vh;
+    overflow:hidden;
+    background-image: url("https://previews.123rf.com/images/erix2005/erix20051705/erix2005170500095/79204793-cambridge-usa-april-29-2015-entrance-gate-into-harvard-yard-in-harvard-university-of-cambridge-massa.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* background-image: url('https://upload.wikimedia.org/wikipedia/commons/d/d7/E-JUST_logo.png');*/
+}
+
+
+
+
+
+.aa{
+    text-transform: capitalize;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    width:350px;
+    height:400px;
+    background: #282828;
+    border-radius:10px;
+    box-shadow: 0px 0px 50px -1px black;
+}
+
+
+
+.aa h1{
+    
+    color: whitesmoke;
+    text-align:center;
+    padding:0 0 20px 0;
+    border-radius:1px solid silver;
+    font-family: Amita;
+    font-size: 3em;
+    
+}
+.aa form{
+    padding:0 60px;
+    box-sizing: border-box;
+}
+.ss label{
+    font-family: Amita;
+    color: whitesmoke;
+}
+.ss input{
+    color: #fff;
+    background-color:  rgba(255, 255, 255, 0.651);
+    text-decoration: none;
+    font-size: 1em;
+    font-family: Amita;
+    font-weight: 400;
+    display: inline-block;
+    padding: 3px 3px;
+    letter-spacing: 1px;
+    border-radius: 15px;
+    margin-bottom: 1px;
+    transition: 0.7s ease;
+    box-shadow: 5px 5px 6px #888888;
+}
+.ss.input:hover {
+    transform: scale(1.1);
+}
+.submit {
+    color: #fff;
+    background-color: rgba(119, 92, 92, 0.637);
+    text-decoration: none;
+    font-size: 1em;
+    font-family: Amita;
+    font-weight: 400;
+    display: inline-block;
+    padding: 10px 10px;
+    letter-spacing: 1px;
+    border-radius: 15px;
+    margin-bottom: 1px;
+    transition: 0.7s ease;
+    box-shadow: 5px 5px 6px #888888;
+    
+}
+.submit:hover {
+    transform: scale(1.1);
+}
+
+table {
+  border-collapse: collapse;
+}
+table, th, td {
+  border: 1px solid black;
+  padding: 5px;
+}
+th {
+  background-color: lightgray;
+}
+  
