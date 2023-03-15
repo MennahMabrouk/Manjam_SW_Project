@@ -17,4 +17,4 @@ give comfort to the user.
 
 # Class Diagrma
 
-![Class Diagram](https://github.com/ibrahimGamal01/Manjam/tree/master/description/diagrams/classDiagram.png)
+![Class Diagram](/description/diagrams/classDiagram.png)
